@@ -11,3 +11,4 @@ t5 = (a2 + b2 + t2) % 10
 t6 = (a1 + b1) % 10
 
 print('Numbers of sum', t4, t5, t6)
+
